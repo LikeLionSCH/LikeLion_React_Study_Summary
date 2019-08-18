@@ -8,7 +8,7 @@
 
 ## [ [Facebook](https://www.facebook.com/profile.php?id=100003769223078) ] [ [Github](https://github.com/alstn2468) ] [ [LinkedIn](https://www.linkedin.com/in/minsu-kim-336289160/) ] [ [Blog](https://alstn2468.github.io/) ]<br/>
 
-### 멋쟁이 사자처럼 7기 **React** 강의 요약 레파지토리입니다.<br/>
+### 멋쟁이 사자처럼 7기 **React.js** 강의 요약 레파지토리입니다.<br/>
 
 ---
 
