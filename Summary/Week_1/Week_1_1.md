@@ -1,6 +1,6 @@
 ## 1주차 - 1.Arrow Function
 
-[코드보기](https://github.com/LikeLionSCH/LikeLion_React_Study_Summary/tree/master/1_Arrow_Function.js)
+[[실습 코드보기]](https://github.com/LikeLionSCH/LikeLion_React_Study_Summary/tree/master/1_Arrow_Function.js)
 
 ### 기존의 함수
 
