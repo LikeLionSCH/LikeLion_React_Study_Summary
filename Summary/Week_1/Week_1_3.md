@@ -84,4 +84,4 @@ a(function(resultFromA) {
 });
 ```
 
-해결 방법으로는 `Promise`와 `Async Fun`이 존재한다.<br>
+해결 방법으로는 `Promise`와 `async - await Fun`이 존재한다.<br>
