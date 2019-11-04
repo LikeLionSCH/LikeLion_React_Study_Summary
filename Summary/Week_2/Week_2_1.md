@@ -51,7 +51,7 @@
 **레고**와 비슷하게 작성된 **컴포넌트**를 모아 웹 어플리케이션을 구성할 수 있다.<br>
 **React**공식문서에 있는 아래의 이미지로 **컴포넌트**를 설명할 수 있다.<br>
 
-<img src="./Week_2_Images/Week_2_1_Test_Image_3.png" width="300" height="auto"><br>
+<img src="./Week_2_Images/Week_2_1_Test_Image_3.png" width="200" height="auto"><br>
 
 위의 이미지에는 크게 5개의 컴포넌트가 존재한다.<br>
 
