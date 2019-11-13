@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.titleStyle {
+  color: white;
+  background-color: black;
+}
+
+.WorldClock {
+  border: 1px solid black;
+  width: 500px;
+  margin: 0 auto 10px auto;
+}
